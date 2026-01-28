@@ -22,7 +22,7 @@ When I'm not working with data, I enjoy Reading, mentoring others. I love the "a
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
 ### 🏆 Check Out My Full Portfolio Website
-<a href= "https://mhercie4.github.io/"
+         https://mhercie4.github.io/
       
 
 
